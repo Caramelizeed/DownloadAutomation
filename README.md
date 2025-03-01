@@ -16,7 +16,7 @@ A Python script that automatically organizes your **Downloads** folder by sortin
 
 ## 🛠 Installation
 ```sh
-git clone https://github.com/Caramelizeed/DownloadOrganizer.git
+https://github.com/Caramelizeed/DownloadAutomation.git
 cd DownloadOrganizer
 pip install -r requirements.txt
 ```
